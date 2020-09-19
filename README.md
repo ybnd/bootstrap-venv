@@ -1,7 +1,7 @@
 # bootstrap-venv
 Run code in a newly configured virtual environment from a single Python call, using only builtin modules.
 
-This is a quick proof-of-concept, and is not portable (...yet?).
+This is a quick proof-of-concept, which is worked out in more detail [here](https://github.com/ybnd/gitploy).
 * The scripts contain some post-Python 3.6 syntax
 * The structure of a `venv` cirtual environment directory differs between operating systems; I assume you're using Linux.
 
